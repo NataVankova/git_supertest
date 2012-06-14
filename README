@@ -5,3 +5,6 @@
 смотрим commit в логе git log
 перед каждым commit нужно указывать какие файлы отслеживаются (git add файл)
 оттачиваем мастерство commit - пишем commit message в командной строке git commit -m 'commit message без восклицательного знака'
+
+git diff - показывает изменения между commit
+git diff b81634817d1bf0035773308afc48ff407cc0114f
