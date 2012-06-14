@@ -22,3 +22,11 @@ git commit -am "commit message"
 git checkout b81634817d1bf0035773308afc48ff407cc0114f
 
 git checkout master - возвращает на последний commit master branch
+
+ПЛАН ДАЛЬНЕЙШЕГО ОБУЧЕНИЯ:
+branch - работа с ветками
+merge - операции слияния
+remote - удаленные репозитории
+pull, push - взаимодействие с удаленными репозиториями
+clone - работа с существующими репозиториями
+
