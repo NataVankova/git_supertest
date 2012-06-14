@@ -17,3 +17,6 @@ git commit -a -m "commit message"
 
 или короче - скомбинировать -a и -m options
 git commit -am "commit message"
+
+попробуем git checkout для перемещения по истории
+git checkout b81634817d1bf0035773308afc48ff407cc0114f
