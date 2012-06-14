@@ -3,4 +3,5 @@
 добавляем README в репозиторий git add README
 после создания мы делаем commit с изменениями в репозитории git commit
 смотрим commit в логе git log
+перед каждым commit нужно указывать какие файлы отслеживаются (git add файл)
 оттачиваем мастерство commit - пишем commit message в командной строке git commit -m 'commit message без восклицательного знака'
