@@ -14,3 +14,6 @@ git config --global --add color.ui true
 
 писать git add каждый раз не удобно, существует команда для случая, когда нет новых файлов
 git commit -a -m "commit message"
+
+или короче - скомбинировать -a и -m options
+git commit -am "commit message"
