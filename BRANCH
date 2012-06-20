@@ -13,4 +13,5 @@ branch это набор commit
 создаем новую ветку - git branch branch_name
 переход на ветку - git checkout branch_name 
 
+git merge branch_name - комманда слияния, которая вносит все изменения из branch_name в текущую branch, branch_name при этом не меняется (не получает изменений текущей ветки)
 
