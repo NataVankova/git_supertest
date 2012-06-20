@@ -17,4 +17,3 @@ git merge branch_name - комманда слияния, которая внос
 
 git branch -d branch_name - удаление branch_name 
 также можна использовать git branch -D branch_name, но -d выводит предупреждающее сообщение
-
