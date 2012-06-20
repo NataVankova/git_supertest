@@ -25,6 +25,8 @@ git checkout master - возвращает на последний commit master
 
 git branch - просматриваем список веток
 
+создаем ветку branch_1 - git branch branch_1
+
 ПЛАН ДАЛЬНЕЙШЕГО ОБУЧЕНИЯ:
 branch - работа с ветками
 merge - операции слияния
