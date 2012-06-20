@@ -15,3 +15,6 @@ branch это набор commit
 
 git merge branch_name - комманда слияния, которая вносит все изменения из branch_name в текущую branch, branch_name при этом не меняется (не получает изменений текущей ветки)
 
+git branch -d branch_name - удаление branch_name 
+также можна использовать git branch -D branch_name, но -d выводит предупреждающее сообщение
+
